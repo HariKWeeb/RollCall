@@ -1,0 +1,24 @@
+Certainly! Here's an example list of 20 students with the provided fields:
+
+1. Alice Johnson | 123-456-7890 | alice.j@email.com | Female | 20 | 3rd | path_to_qr_code_1 | 2023 | C101 | pass123
+2. 9| 987-654-3210 | bob.s@email.com | Male | 22 | 5th | path_to_qr_code_2 | 2022 | C102 | pass456
+3. Cindy Davis | 555-123-7890 | cindy.d@email.com | Female | 21 | 4th | path_to_qr_code_3 | 2023 | C103 | pass789
+4. David White | 789-456-1230 | david.w@email.com | Male | 23 | 6th | path_to_qr_code_4 | 2022 | C104 | passabc
+5. Emily Brown | 234-567-8901 | emily.b@email.com | Female | 19 | 2nd | path_to_qr_code_5 | 2024 | C105 | passdef
+6. Frank Miller | 876-543-2109 | frank.m@email.com | Male | 20 | 3rd | path_to_qr_code_6 | 2023 | C106 | passghi
+7. Grace Turner | 321-654-0987 | grace.t@email.com | Female | 22 | 5th | path_to_qr_code_7 | 2022 | C107 | passjkl
+8. Henry Wilson | 789-012-3456 | henry.w@email.com | Male | 21 | 4th | path_to_qr_code_8 | 2023 | C108 | passmno
+9. Isabel Lee | 543-210-9876 | isabel.l@email.com | Female | 23 | 6th | path_to_qr_code_9 | 2022 | C109 | passpqr
+10. Jake Anderson | 890-123-4567 | jake.a@email.com | Male | 19 | 2nd | path_to_qr_code_10 | 2024 | C110 | passtu
+11. Kelly Davis | 456-789-0123 | kelly.d@email.com | Female | 20 | 3rd | path_to_qr_code_11 | 2023 | C111 | passvwx
+12. Liam Johnson | 789-012-3456 | liam.j@email.com | Male | 22 | 5th | path_to_qr_code_12 | 2022 | C112 | passyz
+13. Megan Carter | 234-567-8901 | megan.c@email.com | Female | 21 | 4th | path_to_qr_code_13 | 2023 | C113 | pass1234
+14. Noah Adams | 876-543-2109 | noah.a@email.com | Male | 23 | 6th | path_to_qr_code_14 | 2022 | C114 | pass5678
+15. Olivia Brown | 321-654-0987 | olivia.b@email.com | Female | 19 | 2nd | path_to_qr_code_15 | 2024 | C115 | passabcd
+16. Paul White | 789-012-3456 | paul.w@email.com | Male | 20 | 3rd | path_to_qr_code_16 | 2023 | C116 | passefgh
+17. Quinn Miller | 543-210-9876 | quinn.m@email.com | Female | 22 | 5th | path_to_qr_code_17 | 2022 | C117 | passijkl
+18. Ryan Wilson | 890-123-4567 | ryan.w@email.com | Male | 21 | 4th | path_to_qr_code_18 | 2023 | C118 | passmnop
+19. Sophia Lee | 456-789-0123 | sophia.l@email.com | Female | 23 | 6th | path_to_qr_code_19 | 2022 | C119 | passqrst
+20. Tyler Anderson | 234-567-8901 | tyler.a@email.com | Male | 19 | 2nd | path_to_qr_code_20 | 2024 | C120 | passuvwx
+
+Please note that this is a fictional list for demonstration purposes, and the information provided is randomly generated.
